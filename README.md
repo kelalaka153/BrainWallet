@@ -8,5 +8,5 @@ During answering a question on [Cryptography.SE](https://crypto.stackexchange.co
 
 There are two files;
 
- - brainwallet_dev.py prints lots of infomation
- - brainwallet.py can use Python secrets to hide the input from the terminal and prints only the necessary information.
+ - **brainwallet_dev.py :** prints lots of infomation
+ - **brainwallet.py :** for end-users that can use Python secrets to hide the input from the terminal and prints only the necessary information.
